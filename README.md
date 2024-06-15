@@ -66,6 +66,46 @@ Windows 10 64bits running on your virtual machine: <br/>
 
 - Now using goto office.com on your browser and login to your tenant where you have admin privileges for sharepoint
 - Goto sharepoint admin center and click on new site
-- Ensure that your site has a document library where we will be migrating the on-premise fileshares to.
+
+<p align="center">
+From sharepoint admin center create a site where you will have the document library which will store our on-premise fileshares: <br/>
+<img src="https://i.imgur.com/OuQEzmP.png" height="80%" width="80%" alt="Windows 10 on VM"/>
+<br />
+
+<br />
+
+- Ensure that you create a communication site has a document library where we will be migrating the on-premise fileshares to.
+
+ <p align="center">
+<b>Creating a communication site:</b> <br/>
+<img src="https://i.imgur.com/aC7D0EK.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+<br />
+
+ <p align="center">
+<b>Parameters of the communication site:</b> <br/>
+<img src="https://i.imgur.com/M851wXu.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+<br />
+
+
+
+
+
+ <p align="center">
+<b>Right-click the virtual machine and select the Settings option:</b> <br/>
+<img src="https://i.imgur.com/jtWLvV4.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+
+
+
+
+
+
+
+
 
 
