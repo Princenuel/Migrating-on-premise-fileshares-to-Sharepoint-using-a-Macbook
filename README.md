@@ -91,14 +91,72 @@ From sharepoint admin center create a site where you will have the document libr
 <br />
 
 
+<p align="center">
+<b>communication site is ready:</b> <br/>
+<img src="https://i.imgur.com/mFpxlQS.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+<br />
+
+
+
+<p align="center">
+<b>Ensure that your Document library where you would migrate the on-premise fileshares to has been created on your sharepoint site:</b> <br/>
+<img src="https://i.imgur.com/VqS2GiD.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+<br />
+
+<p>Now you have created your sharepoint site and your document library where we intend to move the fileshares to, its important to note that 
+for the migration to be successful you have to be on the same network with the fileshare, so now since we are not physically present in the same location
+with our fileshare another way to make that happen is to map the network on our virtual machine c: drive, and to do this you will need the socket url and admin logon credential of the on-premise fileshare. 
+
+To map the drive take the following steps:</p>
+
+
+
+<p align="center">
+<b>Open File Explorer, click on computer at the top right and then Map Network Drive:</b> <br/>
+<img src="https://i.imgur.com/c8G6Kp5.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+
+<br />
+
 
 
 
  <p align="center">
-<b>Right-click the virtual machine and select the Settings option:</b> <br/>
-<img src="https://i.imgur.com/jtWLvV4.png" height="80%" width="80%" alt="VMbox"/>
+<b>A pop up will appear requesting for the folder destination, this is where you need to input the socket url or url of the location of the file you want to 
+ migrate,  also note the format of using a backslash instead of forward slash when inputting the destination url, follow the format of the example given</b> <br />
+<img src="https://i.imgur.com/ulxA1V7.png" height="80%" width="80%" alt="VMbox"/>
+<br />
 <br />
 
+
+
+
+ <p align="center">
+<b>Once that is done, tick the reconnect at sign-in box and click finish</b> <br />
+<img src="https://i.imgur.com/a82BMgL.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+<br />
+
+
+
+ <p align="center">
+<b>If every step is followed you would see the mapped network under the network locations</b> <br />
+<img src="https://i.imgur.com/ZP8qBQL.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+<br />
+
+
+
+
+ <p align="center">
+<b>If every step is followed you would see the mapped network under the network locations</b> <br />
+<img src="https://i.imgur.com/ZP8qBQL.png" height="80%" width="80%" alt="VMbox"/>
+<br />
+<br />
 
 
 
