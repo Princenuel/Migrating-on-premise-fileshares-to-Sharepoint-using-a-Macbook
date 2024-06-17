@@ -1,4 +1,4 @@
-<h1> Migrating-on-premise-fileshares-to-Sharepoint-using-a-Macbook </h1>
+<h1> Migrating-on-premise-fileshares-to-Microsoft-Sharepoint-using-a-Macbook </h1>
 
 
 <h2>Description</h2>
