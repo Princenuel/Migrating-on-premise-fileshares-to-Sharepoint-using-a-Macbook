@@ -150,20 +150,75 @@ To map the drive take the following steps:</p>
 <br />
 
 
+<p>Now that we have the fileshare locations mapped in same network we can commence with our migration 
+
+
+
+- Go to your sharepoint admin center and click on Migration 
+- you will see Migration Manager
+- Click on Fileshare getstarted which will pop up a wizard to install a migration manager agent </p>
+
+<br />
+
+ <p align="center">
+<b>Click on Getstarted button under the fileshare label</b> <br />
+<img src="https://i.imgur.com/FdjKoOc.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
+
 
 
  <p align="center">
-<b>If every step is followed you would see the mapped network under the network locations</b> <br />
-<img src="https://i.imgur.com/ZP8qBQL.png" height="80%" width="80%" alt="VMbox"/>
+<b>Download the Migration Agent and follow the prompt</b> <br />
+<img src="https://i.imgur.com/BRvEBT7.png" height="80%" width="80%" alt="Migration"/>
 <br />
 <br />
 
 
 
 
+ <p align="center">
+<b>Add the migration task follow the prompt.</b> <br />
+<img src="https://i.imgur.com/aZCVUPv.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
+
+
+<p align="center">
+<b>Follow the prompt and select single migration, the fileshare you want to migrate and the destination which is the url location of your document library 
+where you will be migrating the files to.</b> <br />
+<img src="https://i.imgur.com/1NahVVC.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
+
+<p align="center">
+<b>Follow the prompt the fileshare you want to migrate and the destination which is the url location of your document library 
+where you will be migrating the files to.</b> <br />
+<img src="https://i.imgur.com/8PTg0Zs.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
 
 
 
+<p align="center">
+<b>Name the migration task, click on preserve permisions to keep the current permissions of the files you are migrating and then click on run.</b> <br />
+<img src="https://i.imgur.com/IhJvKSJ.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
 
 
 
+<p align="center">
+<b>When task is complete you will see the complete badge under status</b> <br />
+<img src="https://i.imgur.com/T500KEv.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
+
+
+<p align="center">
+<b>When task is complete you will see the complete badge under status</b> <br />
+<img src="https://i.imgur.com/HOx3cPc.png" height="80%" width="80%" alt="Migration"/>
+<br />
+<br />
+
+<p> I hope this project has been helpful, if you have any questions or additions to make please feel free to reach me on my email: emmanuel.chukwuemeka0416@gmail.com</p>
